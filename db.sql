@@ -46,7 +46,7 @@ INSERT INTO countries (country, population, size) VALUES ('Comoros', 794683, 838
 INSERT INTO countries (country, population, size) VALUES ('Congo Democratic Republic of the', 71712867, 905563);
 INSERT INTO countries (country, population, size) VALUES ('Congo Republic of the', 4243929, 132046);
 INSERT INTO countries (country, population, size) VALUES ('Costa Rica', 4576562, 19730);
-INSERT INTO countries (country, population, size) VALUES ('Cote d'Ivoire', 21504162, 124502);
+INSERT INTO countries (country, population, size) VALUES ('Cote d''Ivoire', 21504162, 124502);
 INSERT INTO countries (country, population, size) VALUES ('Croatia', 4483804, 21831);
 INSERT INTO countries (country, population, size) VALUES ('Cuba', 11087330, 42803);
 INSERT INTO countries (country, population, size) VALUES ('Cyprus', 1120489, 3571);
